@@ -11,6 +11,8 @@ import chess.ChessPiece;
 import chess.ChessPosition;
 
 public class Program {
+	
+	//Program
 
 	public static void main(String[] args) {
 		
